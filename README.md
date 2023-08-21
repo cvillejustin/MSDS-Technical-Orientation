@@ -18,8 +18,8 @@
 >- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/), by Nida Khan, 26 Jan 2022
 >- [Guide to writing on Readme.md (.markdown)file for GitHub project](https://abhiappmobiledeveloper.medium.com/guide-to-writing-on-readme-md-markdown-file-for-github-project-8aad4e4e2a15), by Abhishek Srivastava, 16 Nov 2022
 
-## How to Use Markdown Format Effectively
-- TEXT
-
->Useful Sources for Mardown Format
->- [](), by X, DATE
+>Useful Sources for Markdown Format:
+>- [Markdown Guide: Getting Started](https://www.markdownguide.org/getting-started/), Accessed 20 Aug 2022
+>- [Guide to writing on Readme.md (.markdown)file for GitHub project](https://abhiappmobiledeveloper.medium.com/guide-to-writing-on-readme-md-markdown-file-for-github-project-8aad4e4e2a15), by Abhishek Srivastava, 16 Nov 2022
+>- [Dillinger: The Last Markdown Editor, Ever](https://dillinger.io), Accessed 20 Aug 2022
+>- [Learn Markdown: Structure, Syntax, and Conventions](https://www.sitepoint.com/learn-markdown/), by Adrian Try, 21 Jul 2021
